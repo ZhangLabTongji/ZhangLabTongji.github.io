@@ -1,0 +1,3 @@
+# For any extra customization, you can include additional CSS files in every page on your site
+site-css:
+  - "/assets/css/custom-styles.css"
