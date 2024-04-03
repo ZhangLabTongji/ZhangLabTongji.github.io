@@ -5,7 +5,7 @@ permalink: /people/2_5_ze_shu
 status: Student
 pname: Ze Shu
 position: PhD student in Bioinformatics
-eml: ze_shu@126.com
+eml: ze_shu [at] 126.com
 website: 
 cv: 
 github: 
