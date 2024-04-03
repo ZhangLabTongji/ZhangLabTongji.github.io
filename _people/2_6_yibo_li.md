@@ -1,9 +1,9 @@
 ---
-title: Yibo  Li
+title: Yibo Li
 layout: people
-permalink: 
+permalink: /people/2_6_yibo_li
 status: Student
-pname: /people/2_6_yibo_li
+pname: Yibo Li
 position: PhD student 
 eml: 2311483@tongji.edu.com
 website: 
