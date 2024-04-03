@@ -87,7 +87,8 @@ excerpt_length: 50
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-
+site-css:
+  - "/assets/css/custom-styles.css"
 navbar-col: "#9f6e71"
 navbar-text-col: "#fafafa"
 navbar-border-col: "#9a7375"
