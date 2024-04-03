@@ -1,7 +1,7 @@
 ---
 title: Xin Wang
 layout: people
-permalink: /people/xin_wang
+permalink: /people/2_2_xin_wang
 status: Student
 pname: Xin Wang
 position: PhD student in biology
