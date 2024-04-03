@@ -11,7 +11,7 @@ permalink: /positions
 ### Computational biology postdoc position at the Zhang Lab
 
 <div>
-    <p><b>Email: </b>zhangyunfang@tongji.edu.cn</p>
+    <p><b>Email: </b>zhangyunfang [at] tongji.edu.cn</p>
     <p style="line-height: 1.0em;"><b>Postal adress:</b></p>
     <p style="line-height: 1.0em;">Yunfang Zhang</p>
     <p style="line-height: 1.0em;">School of Life Science and Technology, Tongji University</p>
