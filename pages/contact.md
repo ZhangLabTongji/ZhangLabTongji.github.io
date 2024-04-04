@@ -1,7 +1,7 @@
 ---
 layout: news
-title: Positions
-permalink: /positions
+title: Contact
+permalink: /contact
 ---
 
 # Positions
