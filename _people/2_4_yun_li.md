@@ -4,7 +4,7 @@ layout: people
 permalink: /people/2_4_yun_li
 status: Student
 pname: Yun Li
-position: Postgraduate student in Biology
+position: Master's student
 eml: li_yun@tongji.edu.cn
 website: 
 cv: 

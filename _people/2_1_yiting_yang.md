@@ -4,7 +4,7 @@ layout: people
 permalink: /people/2_1_yiting_yang
 status: Student
 pname: Yiting Yang
-position: PhD student in Biology
+position: PhD student
 eml: yangyiting@tongji.edu.com
 website: 
 cv: 

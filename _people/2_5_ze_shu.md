@@ -4,7 +4,7 @@ layout: people
 permalink: /people/2_5_ze_shu
 status: Student
 pname: Ze Shu
-position: PhD student in Bioinformatics
+position: PhD student
 eml: ze_shu@126.com
 website: 
 cv: 
