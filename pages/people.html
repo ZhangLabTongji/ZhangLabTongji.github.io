@@ -11,7 +11,7 @@ permalink: /people
 <ul>
     {% assign count = 0 %}
     {% for people in site.people %}
-        {% if people.status == "Principle Investigator" %}
+        {% if people.status == "Group Leader" %}
             {% assign count = count | plus:1 %}
             {% if count > 1 %}
             <hr>
