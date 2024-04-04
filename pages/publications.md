@@ -7,7 +7,7 @@ permalink: /publications
 
 # Publications
 
-Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en) for more details.<br>
+Please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=Opgodt4AAAAJ) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
