@@ -4,11 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-# Contact us
-
-
-
-### Computational biology postdoc position at the Zhang Lab
+# Contact
 
 <div>
     <p><b>Email: </b>zhangyunfang [at] tongji.edu.cn</p>
