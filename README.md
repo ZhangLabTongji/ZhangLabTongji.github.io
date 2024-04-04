@@ -22,6 +22,6 @@ The people page is located at `pages/people.html`. To add a new person, please a
 ## Publications
 The publications page is located at `pages/publications.md`. To add new publications, please add new list item on the top, and add the `year_journal_topic.pdf` file in `resources/publications/`.
 
-## Positions
-The positions page is located at `pages/positions.md`. To adjust positions, please modify the file.
+## Contact
+The contact page is located at `pages/contact.md`. To adjust positions, please modify the file.
 
