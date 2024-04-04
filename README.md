@@ -8,7 +8,7 @@ The lab website is built based on [Beautiful Jekyll](https://github.com/daattali
 - [News & Events](#News_and_Events)
 - [People](#People)
 - [Publications](#Publications)
-- [Positions](#Positions)
+- [Contact](#Contact)
 
 ## Home
 The home page is located at `index.html`. To change the images at the home page, please add or delete the images in the `assets/img/` folder, and then modify the corresponding path in `index.html`.
