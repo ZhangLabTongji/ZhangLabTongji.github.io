@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-# Positions
+# Contact us
 
 
 
