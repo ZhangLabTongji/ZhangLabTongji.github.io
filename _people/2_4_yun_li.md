@@ -13,5 +13,5 @@ linkedin:
 twitter:
 facebook: 
 instagram:
-desp: Yun Li received her bachelor's degree in Biotechnology from WMU in 2022. His reserch focus on the tRNA biology and development of new tool in tRNA research. Recently, he is working on the establishment of tRNA-seq methods in early embryonic development and exploration of tRNA landscape in early embryonic development.
+desp: Yun Li received his bachelor's degree in Biotechnology from WMU in 2022. His research focuses on tRNA biology and the development of new tools in tRNA research. Recently, he has been working on establishing tRNA-seq methods in early embryonic development and exploring the tRNA landscape in this stage.
 ---
