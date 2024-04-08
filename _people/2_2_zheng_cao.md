@@ -5,7 +5,7 @@ permalink: /people/2_2_zheng_cao
 status: Student
 pname: Zheng Cao
 position: PhD student
-email: 2211015@tongji.edu.cn
+eml: 2211015@tongji.edu.cn
 website: 
 cv: 
 github: 
