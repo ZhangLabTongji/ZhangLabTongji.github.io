@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Zhang Lab
+title: ZhangYF Lab
 
 # Short description of your site
 description: Yunfang Zhang Lab at Tongji University
@@ -38,10 +38,10 @@ title-img: /assets/img/logo.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  email: zhangyunfang@tongji.edu.cn
-  github: ZhangLabTongji
-  rss: false
+# social-network-links:
+#  email: zhangyunfang@tongji.edu.cn
+#  github: ZhangLabTongji
+#  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
