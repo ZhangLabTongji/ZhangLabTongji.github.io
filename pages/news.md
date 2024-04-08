@@ -117,7 +117,7 @@ permalink: /news
 
 - Yunfang’s collaboration of hypoxia induced RNA modification abundance alteration in germ cells published in Frontiers in Molecular Biosciences.
 
-#### Aprial
+#### April
 
 - Yunfang’s collaboration of investigating the function of sperm 5’tsRNA-Gly-GCC during intergenerational epigenetic inheritance is published in Frontiers in Molecular Biosciences
 
