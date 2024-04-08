@@ -1,10 +1,10 @@
 ---
 layout: news
-title: News & Events
+title: News
 permalink: /news
 ---
 
-# News and Events
+# News
 
 ### 2024
 
