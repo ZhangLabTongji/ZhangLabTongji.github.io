@@ -10,7 +10,7 @@ permalink: /news
 
 #### April
 - Yunfang attended a meeting organized by the National Natural Science Foundation of China in Beijing.
-ZhangYF Lab website was officially online! Congrats!
+- ZhangYF Lab website was officially online! Congrats!
 
 #### March
 - ZhangYF Lab spent a happy hour under the cherry blossom trees in Tongji University! Many thanks to our photographer Yun Li! Great photos with great memories!
