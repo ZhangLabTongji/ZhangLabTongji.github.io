@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: ZhangYF Lab @ TJU 
+title: ZhangYF Lab
 
 # Short description of your site
 description: Yunfang Zhang Lab at Tongji University
@@ -39,9 +39,9 @@ title-img: /assets/img/logo.png
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 # social-network-links:
-# email: zhangyunfang@tongji.edu.cn
-# github: ZhangLabTongji
-# rss: false
+#  email: zhangyunfang@tongji.edu.cn
+#  github: ZhangLabTongji
+#  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -61,8 +61,6 @@ title-img: /assets/img/logo.png
 #  google-scholar: your google scholar
 
 # --- General options --- #
-# Custom message to show in the footer, with enhanced formatting for emphasis
-footer-custom-message: "<b style='font-size: larger; color: #fafafa; font-family: \"Times New Roman\", Times, serif;'>The greater our knowledge increases, the greater our ignorance unfolds. -JFK</b>"
 
 # Select which social network share links to show in posts
 share-links-active:
