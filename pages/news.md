@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+---
+layout: news
+title: News
+permalink: /news
+---
+
 # News
 
 ### 2024
