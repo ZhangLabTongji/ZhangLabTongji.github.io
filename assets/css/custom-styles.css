@@ -1,3 +1,10 @@
 .navbar {
   background: linear-gradient(to right, #F3F2F2 0%, #FFFFFF 25%, #DDCDCC 50%, #DDCDCC 100%);
 }
+<<<<<<< HEAD
+=======
+
+footer {
+    background: linear-gradient(to bottom, #EBF3F6 0%, #F7F8FC 20%, #F6E8E2 40%, #DDCDCC 70%, #DDCDCC 100%);
+}
+>>>>>>> fc014073df34881eadc98348bff33d9ad43955ed
