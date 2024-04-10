@@ -5,21 +5,20 @@ subtitle: Links
 permalink: /links
 ---
 
-<table>
-  <tr>
-    <th>Lab Links</th>
-    <th>Web Sources</th>
-  </tr>
-  <tr>
-    <td>
-      - [Lab Link 1](#)
-      - [Lab Link 2](#)
-      - [Lab Link 3](#)
-    </td>
-    <td>
-      - [Web Source 1](#)
-      - [Web Source 2](#)
-      - [Web Source 3](#)
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 10px;">
+    <h3>Lab Links</h3><hr>
+    <!-- 在这里使用Markdown或HTML列出你的链接 -->
+    <p><a href="#">Link 1</a></p>
+    <p><a href="#">Link 2</a></p>
+    <p><a href="#">Link 3</a></p>
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <h3>Web Sources</h3><hr>
+    <!-- 在这里使用Markdown或HTML列出你的链接 -->
+    <p><a href="#">Source 1</a></p>
+    <p><a href="#">Source 2</a></p>
+    <p><a href="#">Source 3</a></p>
+  </div>
+</div>
+
