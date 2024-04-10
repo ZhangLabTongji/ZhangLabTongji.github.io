@@ -6,11 +6,11 @@
   object-fit: contain; /* 确保图片完整显示，保持原有比例 */
   width: 50%; /* 将图片宽度设置为原宽度的50% */
   height: auto; /* 高度自动调整，保持图片比例 */
-  background-color: black; /* 图片周围的填充颜色 */
+  background-color: #232323; /* 图片周围的填充颜色 */
   display: block; /* 确保图片块级显示，使得margin可以正常工作 */
   margin: auto; /* 图片居中显示 */
 }
 
 .carousel-item {
-  background-color: black; /* 为轮播项设置背景色填充 */
+  background-color: #232323; /* 为轮播项设置背景色填充 */
 }
