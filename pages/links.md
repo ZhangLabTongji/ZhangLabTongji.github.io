@@ -1,3 +1,10 @@
+---
+layout: news
+title: Links
+subtitle: Links
+permalink: /links
+---
+
 <table>
   <tr>
     <th>Lab Links</th>
