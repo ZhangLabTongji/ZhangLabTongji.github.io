@@ -209,13 +209,27 @@ permalink: /people
 <hr class="large">
 
 <h3>Alumni</h3>
-<ul>
-    <li></li>      
+<ul>     
 </ul>
 
+<style>
+  #carouselExampleIndicators {
+    max-width: 50vw; /* Set the maximum width to 50% of the viewport width */
+    margin: auto; /* Center the carousel */
+    overflow: hidden; /* Hide overflow */
+  }
+  
+  #carouselExampleIndicators .carousel-inner {
+    position: relative;
+    width: 100%;
+  }
 
-site-css:
-  - "/assets/css/custom-img.css"
+  #carouselExampleIndicators .carousel-item img {
+    width: 100%; /* Ensure image covers the full width */
+    height: auto; /* Adjust height automatically */
+    aspect-ratio: 16 / 9; /* Maintain a 16:9 aspect ratio */
+  }
+</style>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -223,17 +237,14 @@ site-css:
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active" style="background-color: black;">
-      <!-- 添加 custom-img 类到 img 标签 -->
-      <img class="d-block custom-img" src="/assets/img/people/5_1_Alumni.jpg" alt="First slide">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/people/5_1_Alumni.jpg" alt="First slide">
     </div>
-    <div class="carousel-item" style="background-color: black;">
-      <!-- 添加 custom-img 类到 img 标签 -->
-      <img class="d-block custom-img" src="/assets/img/people/5_2_Alumni.jpg" alt="Second slide">
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/people/5_2_Alumni.jpg" alt="Second slide">
     </div>
-    <div class="carousel-item" style="background-color: black;">
-      <!-- 添加 custom-img 类到 img 标签 -->
-      <img class="d-block custom-img" src="/assets/img/people/5_3_Alumni.jpg" alt="Third slide">
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/people/5_3_Alumni.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
