@@ -10,7 +10,7 @@ permalink: /contact
     <div style="float: left; width: 50%;">
         <p>
             <a href="https://scholar.google.com/citations?user=Opgodt4AAAAJ&hl=en" target="_blank">
-                <img src="path_to_your_google_scholar_icon.png" alt="Google Scholar" style="width: 24px; height: 24px;">
+                <img src="path_to_your_google_scholar_icon.png" style="width: 24px; height: 24px;">
             </a>
         </p>
         <p><b>Email: </b>zhangyunfang [at] tongji.edu.cn</p>
