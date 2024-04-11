@@ -9,9 +9,14 @@ permalink: /contact
 <div style="width: 100%;">
     <div style="float: left; width: 50%;">
         <p>
+            <a href="mailto:zhangyunfang@tongji.edu.cn" title="email">
+                <i class="fas fa-envelope ai-3x"></i></a>
+            <a href="https://orcid.org/" title="ORCID" target="_blank">
+                <i class="ai ai-orcid ai-3x"></i></a>
             <a href="https://scholar.google.com/citations?user=Opgodt4AAAAJ&hl=en" title="Google Scholar" target="_blank">
-                <i class="ai ai-google-scholar"></i>
-            </a>
+                <i class="ai ai-google-scholar ai-3x"></i></a>
+            <a href="https://www.researchgate.net/profile/Yunfang-Zhang" title="ResearchGate" target="_blank">
+                <i class="ai ai-researchgate ai-3x"></i></a>
         </p>
         <p><b>Email: </b>zhangyunfang [at] tongji.edu.cn</p>
         <p><b>Postal address:</b></p>
