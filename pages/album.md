@@ -32,6 +32,7 @@ permalink: /album
     <span class="sr-only">Next</span>
   </a>
 </div>
+<hr>
 
 ##### March 31, 2024
 <div class="container" style="width: 50%; margin: auto;">
@@ -41,6 +42,7 @@ permalink: /album
     </div>
   </div>
 </div>
+<hr>
 
 ### 2023
 
@@ -53,6 +55,7 @@ permalink: /album
     </div>
   </div>
 </div>
+<hr>
 
 #### May
 ##### May 13, 2023
@@ -78,6 +81,7 @@ permalink: /album
     <span the "sr-only">Next</span>
   </a>
 </div>
+<hr>
 
 #### March
 ##### March 27, 2023
@@ -88,6 +92,7 @@ permalink: /album
     </div>
   </div>
 </div>
+<hr>
 
 #### February
 ##### February 01, 2023
@@ -98,4 +103,4 @@ permalink: /album
     </div>
   </div>
 </div>
-
+<hr>
