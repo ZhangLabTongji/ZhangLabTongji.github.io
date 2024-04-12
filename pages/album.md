@@ -56,12 +56,27 @@ permalink: /album
 
 #### May
 ##### May 13, 2023
-<div class="container" style="width: 50%; margin: auto;">
-  <div class="row">
-    <div class="col-lg-12">
-      <img src="/assets/img/lab/lab20230513_2.jpg" class="img-fluid" alt="Image 2 from May 13, 2023">
+<div id="may13Carousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: auto;">
+  <ol class="carousel-indicators">
+    <li data-target="#may13Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#may13Carousel" data-slide-to="1"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20230513_1.jpg" class="d-block w-100" alt="Image 1 from May 13, 2023">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20230513_2.jpg" class="d-block w-100" alt="Image 2 from May 13, 2023">
     </div>
   </div>
+  <a class="carousel-control-prev" href="#may13Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#may13Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span the "sr-only">Next</span>
+  </a>
 </div>
 
 #### March
