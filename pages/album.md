@@ -3,6 +3,8 @@ layout: news
 title: Album
 permalink: /album
 ---
+
+<style>
 #march30Carousel {
   width: 50%; /* Width relative to the parent */
   margin: auto;
