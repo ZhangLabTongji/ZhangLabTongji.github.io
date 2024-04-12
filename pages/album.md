@@ -6,10 +6,11 @@ permalink: /album
 
 # Album
 
+---
+
 ### 2024
 
-#### March
-##### March 30, 2024
+#### March 30, 2024
 <div id="march30Carousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: auto;">
   <ol class="carousel-indicators">
     <li data-target="#march30Carousel" data-slide-to="0" class="active"></li>
@@ -20,8 +21,12 @@ permalink: /album
       <img src="/assets/img/lab/lab20240330_1.jpg" class="d-block w-100" alt="Image 1 from March 30, 2024">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/lab/lab20240330_2.jpg" class="d-block w-100" alt="Image 2 from March 30, 2024">
+      <img src="/assets/img/lab/lab20240331.jpg" class="d-block w-100" alt="Image 2 from March 30, 2024">
     </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240330_2.jpg" class="d-block w-100" alt="Image 3 from March 30, 2024">
+    </div>
+    
   </div>
   <a class="carousel-control-prev" href="#march30Carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -34,20 +39,10 @@ permalink: /album
 </div>
 <hr>
 
-##### March 31, 2024
-<div class="container" style="width: 50%; margin: auto;">
-  <div class="row">
-    <div class="col-lg-12">
-      <img src="/assets/img/lab/lab20240331.jpg" class="img-fluid" alt="Image from March 31, 2024">
-    </div>
-  </div>
-</div>
-<hr>
 
 ### 2023
 
-#### August
-##### August 17, 2023
+#### August 17, 2023
 <div class="container" style="width: 50%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
@@ -57,8 +52,7 @@ permalink: /album
 </div>
 <hr>
 
-#### May
-##### May 13, 2023
+#### May 13, 2023
 <div id="may13Carousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: auto;">
   <ol class="carousel-indicators">
     <li data-target="#may13Carousel" data-slide-to="0" class="active"></li>
@@ -78,13 +72,13 @@ permalink: /album
   </a>
   <a class="carousel-control-next" href="#may13Carousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span the "sr-only">Next</span>
+    <span class="sr-only">Next</span>
   </a>
 </div>
 <hr>
 
-#### March
-##### March 27, 2023
+
+#### March 27, 2023
 <div class="container" style="width: 50%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
@@ -94,8 +88,7 @@ permalink: /album
 </div>
 <hr>
 
-#### February
-##### February 01, 2023
+#### February 01, 2023
 <div class="container" style="width: 50%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
