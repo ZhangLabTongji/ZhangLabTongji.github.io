@@ -15,7 +15,7 @@ permalink: /links
   <div style="flex: 50%; padding: 10px;">
     <h3>Web Sources</h3><hr>
     <!-- 在这里使用Markdown或HTML列出你的链接 -->
-    <p><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a> <img src="/assets/img/links/PubMed.png" style="width: 32px; height: 60px;"></p>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a> <img src="/assets/img/links/PubMed.png" style="width: 64px; height: 36px;"></p>
     <p><a href="http://gtrnadb.ucsc.edu/">GtRNAdb</a> <img src="/assets/img/links/GtRNAdb.png" style="width: 40px; height: 40px;"></p>
     <p><a href="http://lowelab.ucsc.edu/tRNAscan-SE/">tRNAscan-SE</a> <img src="/assets/img/links/tRNAscan-SE.png" style="width: 40px; height: 40px;"></p>
     <p><a href="https://www.tmodbase.com/#/">tModBase</a> <img src="/assets/img/links/tModBase.jpg" style="width: 40px; height: 40px;"></p>
