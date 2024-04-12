@@ -3,6 +3,28 @@ layout: news
 title: Album
 permalink: /album
 ---
+#march30Carousel {
+  width: 50%; /* Width relative to the parent */
+  margin: auto;
+  position: relative;
+  padding-bottom: 28.12%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  height: 0;
+}
+
+#march30Carousel .carousel-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+#march30Carousel .carousel-item img {
+  width: 100%;
+  height: 100%; /* This makes the image cover the container, be aware of image stretching */
+  object-fit: cover; /* This keeps the aspect ratio of the image intact */
+}
+</style>
 
 # Album
 
@@ -11,22 +33,22 @@ permalink: /album
 ### 2024
 
 #### March 30, 2024
-<div id="march30Carousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: auto;">
+<div id="march30Carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#march30Carousel" data-slide-to="0" class="active"></li>
     <li data-target="#march30Carousel" data-slide-to="1"></li>
+    <li data-target="#march30Carousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/lab/lab20240330_1.jpg" class="d-block w-100" alt="Image 1 from March 30, 2024">
+      <img src="/assets/img/lab/lab20240330_1.jpg" alt="Image 1 from March 30, 2024">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/lab/lab20240331.jpg" class="d-block w-100" alt="Image 2 from March 30, 2024">
+      <img src="/assets/img/lab/lab20240331.jpg" alt="Image from March 31, 2024">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/lab/lab20240330_2.jpg" class="d-block w-100" alt="Image 3 from March 30, 2024">
+      <img src="/assets/img/lab/lab20240330_2.jpg" alt="Image 3 from March 30, 2024">
     </div>
-    
   </div>
   <a class="carousel-control-prev" href="#march30Carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
