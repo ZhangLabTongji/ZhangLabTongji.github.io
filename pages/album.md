@@ -5,15 +5,15 @@ permalink: /album
 ---
 
 <style>
-#march30Carousel {
+.carousel-container {
   width: 50%; /* Width relative to the parent */
   margin: auto;
   position: relative;
-  padding-bottom: 28.12%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  padding-bottom: 28.12%; /* 16:9 Aspect Ratio (9/16 = 0.5625) */
   height: 0;
 }
 
-#march30Carousel .carousel-inner {
+.carousel-container .carousel-inner {
   position: absolute;
   top: 0;
   left: 0;
@@ -21,10 +21,11 @@ permalink: /album
   right: 0;
 }
 
-#march30Carousel .carousel-item img {
+.carousel-container .carousel-item img {
   width: 100%;
 }
 </style>
+
 
 # Album
 
@@ -33,7 +34,7 @@ permalink: /album
 ### 2024
 
 #### March 30, 2024
-<div id="march30Carousel" class="carousel slide" data-ride="carousel">
+<div id="march30Carousel" class="carousel slide carousel-container" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#march30Carousel" data-slide-to="0" class="active"></li>
     <li data-target="#march30Carousel" data-slide-to="1"></li>
@@ -75,7 +76,7 @@ permalink: /album
 <hr>
 
 #### May 13, 2023
-<div id="may13Carousel" class="carousel slide" data-ride="carousel">
+<div id="may13Carousel" class="carousel slide carousel-container" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#may13Carousel" data-slide-to="0" class="active"></li>
     <li data-target="#may13Carousel" data-slide-to="1"></li>
@@ -93,7 +94,7 @@ permalink: /album
     <span class="sr-only">Previous</span>
   </a>
   <a class="carousel-control-next" href="#may13Carousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span the "carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
