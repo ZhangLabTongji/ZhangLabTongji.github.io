@@ -75,17 +75,17 @@ permalink: /album
 <hr>
 
 #### May 13, 2023
-<div id="may13Carousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: auto;">
+<div id="may13Carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#may13Carousel" data-slide-to="0" class="active"></li>
     <li data-target="#may13Carousel" data-slide-to="1"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/lab/lab20230513_1.jpg" class="d-block w-100" alt="Image 1 from May 13, 2023">
+      <img src="/assets/img/lab/lab20230513_1.jpg" alt="Image 1 from May 13, 2023">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/lab/lab20230513_2.jpg" class="d-block w-100" alt="Image 2 from May 13, 2023">
+      <img src="/assets/img/lab/lab20230513_2.jpg" alt="Image 2 from May 13, 2023">
     </div>
   </div>
   <a class="carousel-control-prev" href="#may13Carousel" role="button" data-slide="prev">
