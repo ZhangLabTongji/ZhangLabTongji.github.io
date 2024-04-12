@@ -6,85 +6,81 @@ permalink: /album
 
 # Album
 
-### 2024年
+### 2024
 
-#### 3月
-
-##### 活动1
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6">
-      <img src="/assets/img/lab/lab20240330_1.jpg" class="img-fluid" alt="Image 1 from March 30, 2024">
+#### March
+##### March 30, 2024
+<div id="march30Carousel" class="carousel slide" data-ride="carousel" style="width: 50%; margin: auto;">
+  <ol class="carousel-indicators">
+    <li data-target="#march30Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#march30Carousel" data-slide-to="1"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="lab20240330_1.jpg" class="d-block w-100" alt="Image 1 from March 30, 2024">
     </div>
-    <div class="col-lg-6">
-      <img src="/assets/img/lab/lab20240330_2.jpg" class="img-fluid" alt="Image 2 from March 30, 2024">
-    </div>
-  </div>
-</div>
-
-##### 活动2
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-12">
-      <img src="/assets/img/lab/lab20240331.jpg" class="img-fluid" alt="Image from March 31, 2024">
+    <div class="carousel-item">
+      <img src="lab20240330_2.jpg" class="d-block w-100" alt="Image 2 from March 30, 2024">
     </div>
   </div>
+  <a class="carousel-control-prev" href="#march30Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#march30Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
-### 2023年
-
-#### 8月
-
-##### 活动1
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6">
-      <img src="/assets/img/lab/lab20230817.jpg" class="img-fluid" alt="Image from August 17, 2023">
-    </div>
-    <div class="col-lg-6">
-      <img src="/assets/img/lab/lab20230818.jpg" class="img-fluid" alt="Image from August 18, 2023">
-    </div>
-  </div>
-</div>
-
-#### 5月
-
-##### 活动1
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-6">
-      <img src="/assets/img/lab/lab20230513_1.jpg" class="img-fluid" alt="Image 1 from May 13, 2023">
-    </div>
-    <div class="col-lg-6">
-      <img src="/assets/img/lab/lab20230513_2.jpg" class="img-fluid" alt="Image 2 from May 13, 2023">
-    </div>
-  </div>
-</div>
-
-#### 3月
-
-##### 活动1
-
-<div class="container">
+##### March 31, 2024
+<div class="container" style="width: 50%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
-      <img src="/assets/img/lab/lab20230327.jpg" class="img-fluid" alt="Image from March 27, 2023">
+      <img src="lab20240331.jpg" class="img-fluid" alt="Image from March 31, 2024">
     </div>
   </div>
 </div>
 
-#### 2月
+### 2023
 
-##### 活动1
-
-<div class="container">
+#### August
+##### August 17, 2023
+<div class="container" style="width: 50%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
-      <img src="/assets/img/lab/lab20230201.jpg" class="img-fluid" alt="Image from February 1, 2023">
+      <img src="lab20230817.jpg" class="img-fluid" alt="Image from August 17, 2023">
     </div>
   </div>
 </div>
+
+#### May
+##### May 13, 2023
+<div class="container" style="width: 50%; margin: auto;">
+  <div class="row">
+    <div class="col-lg-12">
+      <img src="lab20230513_2.jpg" class="img-fluid" alt="Image 2 from May 13, 2023">
+    </div>
+  </div>
+</div>
+
+#### March
+##### March 27, 2023
+<div class="container" style="width: 50%; margin: auto;">
+  <div class="row">
+    <div class="col-lg-12">
+      <img src="lab20230327.jpg" class="img-fluid" alt="Image from March 27, 2023">
+    </div>
+  </div>
+</div>
+
+#### February
+##### February 01, 2023
+<div class="container" style="width: 50%; margin: auto;">
+  <div class="row">
+    <div class="col-lg-12">
+      <img src="lab20230201.jpg" class="img-fluid" alt="Image from February 1, 2023">
+    </div>
+  </div>
+</div>
+
