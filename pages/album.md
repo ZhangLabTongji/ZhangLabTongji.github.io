@@ -66,7 +66,7 @@ permalink: /album
 ### 2023
 
 #### August 17, 2023
-<div class="container" style="width: 50%; margin: auto;">
+<div class="container" style="width: 52.85%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
       <img src="/assets/img/lab/lab20230817.jpg" class="img-fluid" alt="Image from August 17, 2023">
@@ -102,7 +102,7 @@ permalink: /album
 
 
 #### March 27, 2023
-<div class="container" style="width: 50%; margin: auto;">
+<div class="container" style="width: 52.85%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
       <img src="/assets/img/lab/lab20230327.jpg" class="img-fluid" alt="Image from March 27, 2023">
@@ -112,7 +112,7 @@ permalink: /album
 <hr>
 
 #### February 01, 2023
-<div class="container" style="width: 50%; margin: auto;">
+<div class="container" style="width: 52.85%; margin: auto;">
   <div class="row">
     <div class="col-lg-12">
       <img src="/assets/img/lab/lab20230201.jpg" class="img-fluid" alt="Image from February 1, 2023">
