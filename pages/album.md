@@ -23,8 +23,6 @@ permalink: /album
 
 #march30Carousel .carousel-item img {
   width: 100%;
-  height: 100%; /* This makes the image cover the container, be aware of image stretching */
-  object-fit: cover; /* This keeps the aspect ratio of the image intact */
 }
 </style>
 
