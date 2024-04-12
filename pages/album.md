@@ -1,5 +1,5 @@
 ---
-layout: album
+layout: news
 title: Album
 permalink: /album
 ---
