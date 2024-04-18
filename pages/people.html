@@ -213,10 +213,29 @@ permalink: /people
 </ul>
 
 
+<style>
+#alumniCarousel {
+  width: 60%; /* Width relative to the parent */
+  margin: auto;
+  position: relative;
+  padding-bottom: 33.75%; /* 16:9 Aspect Ratio */
+  height: 0;
+}
 
+#march30Carousel .carousel-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
 
+#march30Carousel .carousel-item img {
+  width: 100%;
+}
+</style>
 
-<div id="alumniCarousel" class="carousel slide" data-ride="carousel" style="width: 60%; margin: auto;">
+<div id="alumniCarousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#alumniCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#alumniCarousel" data-slide-to="1"></li>
@@ -224,13 +243,13 @@ permalink: /people
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/people/5_1_Alumni.jpg" class="d-block w-100" alt="Alumni 1">
+      <img src="/assets/img/people/5_1_Alumni.jpg" alt="Alumni 1">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/people/5_2_Alumni.jpg" class="d-block w-100" alt="Alumni 2">
+      <img src="/assets/img/people/5_2_Alumni.jpg" alt="Alumni 2">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/people/5_3_Alumni.jpg" class="d-block w-100" alt="Alumni 3">
+      <img src="/assets/img/people/5_3_Alumni.jpg" alt="Alumni 3">
     </div>
   </div>
   <a class="carousel-control-prev" href="#alumniCarousel" role="button" data-slide="prev">
@@ -242,8 +261,3 @@ permalink: /people
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-
-
-
