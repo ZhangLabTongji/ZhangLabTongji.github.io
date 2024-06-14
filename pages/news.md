@@ -8,7 +8,16 @@ permalink: /news
 
 ### 2024
 
+#### June
+- From June 27th to June 29th, Zhang Yunfang's research group went to Nantong City to attend the fourth joint academic annual meeting of Reproductive Biology Branch of Chinese Zoological Society. Teacher Zhang participated in the report as a guest.
+- Congratulations to Dr. Wang Xin, Cao Zheng passed the mid-term defense.
+
+#### May
+- Yunfang attended the 29th International RNA Conference in Edinburgh, UK, where she engaged in academic exchanges with experts and students through a poster presentation.
+- Master's student Li Yun successfully transitioned to a doctoral student. Congratulations!
+
 #### April
+- Members of ZhangYF Lab and Gao Yawei Lab went to Disney for a team-building event and enjoyed a wonderful time together!
 - Yunfang attended a meeting organized by the National Natural Science Foundation of China in Beijing.
 - ZhangYF Lab website was officially online! Congrats!
 
