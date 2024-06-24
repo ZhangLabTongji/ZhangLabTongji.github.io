@@ -10,6 +10,7 @@ permalink: /news
 
 #### June
 - From June 27th to June 29th, Zhang Yunfang's research group went to Nantong City to attend the fourth joint academic annual meeting of Reproductive Biology Branch of Chinese Zoological Society. Teacher Zhang participated in the report as a guest.
+- On June 15th, Yunfang's students organized a special birthday celebration for her, creating a warm and touching moment filled with joy.
 - Congratulations to Dr. Wang Xin, Cao Zheng passed the mid-term defense.
 
 #### May
