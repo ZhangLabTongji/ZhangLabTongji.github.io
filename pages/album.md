@@ -33,6 +33,104 @@ permalink: /album
 
 ### 2024
 
+#### August 14, 2024
+<div id="august14Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#april16Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#april16Carousel" data-slide-to="1"></li>
+    <li data-target="#april16Carousel" data-slide-to="2"></li>
+    <li data-target="#april16Carousel" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20240814-1.jpg" alt="Image 1 from August 14, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240814-2.jpg" alt="Image 2 from August 14, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240814-3.jpg" alt="Image 3 from August 14, 2024">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#august14Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#august14Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
+#### July 28, 2024
+<div id="july28Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#april16Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#april16Carousel" data-slide-to="1"></li>
+    <li data-target="#april16Carousel" data-slide-to="2"></li>
+    <li data-target="#april16Carousel" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20240728-1.jpg" alt="Image 1 from July 28, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240728-2.jpg" alt="Image 2 from July 28, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240728-3.jpg" alt="Image 3 from July 28, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240728-4.jpg" alt="Image 4 from July 28, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240728-5.jpg" alt="Image 5 from July 28, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240728-6.jpg" alt="Image 6 from July 28, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20240728-7.jpg" alt="Image 7 from July 28, 2024">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#july28Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#july28Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
+
+#### June 27, 2024
+<div id="june27Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#april16Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#april16Carousel" data-slide-to="1"></li>
+    <li data-target="#april16Carousel" data-slide-to="2"></li>
+    <li data-target="#april16Carousel" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20240627-1.jpg" alt="Image 1 from June 27, 2024">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#june27Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#june27Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
+
 #### June 15, 2024
 <div id="june15Carousel" class="carousel slide carousel-container" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -55,7 +153,7 @@ permalink: /album
       <img src="/assets/img/lab/lab20240615-4.jpg" alt="Image 4 from June 15, 2024">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#april16Carousel" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#june15Carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
