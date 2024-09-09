@@ -8,6 +8,15 @@ permalink: /news
 
 ### 2024
 
+#### September
+- On September 2, members of Professor Zhang Yunfang’s lab attended the RNA Biology conference at Cold Spring Harbor, Suzhou. PhD student Li Yun presented a poster, showcasing his research, contributing to the scientific exchange and discussions during the conference.
+
+#### August
+- On August 14, 2024, Zhang Yunfang’s lab hosted Dr. Li Sirui from the CAS Center for Excellence in Molecular Cell Science. Dr. Li presented a lecture titled “Targeting STING Pathway in Anti-Tumor Immunotherapy,” sparking insightful discussions among attendees.
+
+#### July
+- On July 28, all members of Professor Zhang Yunfang’s lab participated in a team-building trip to Anji County, Zhejiang Province. The trip fostered collaboration and strengthened relationships among the team, while providing an opportunity to explore nature together.
+
 #### June
 - From June 27th to June 29th, Zhang Yunfang's research group went to Nantong City to attend the fourth joint academic annual meeting of Reproductive Biology Branch of Chinese Zoological Society. Teacher Zhang participated in the report as a guest.
 - On June 15th, Yunfang's students organized a special birthday celebration for her, creating a warm and touching moment filled with joy.
