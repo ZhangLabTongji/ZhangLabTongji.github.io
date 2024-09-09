@@ -52,10 +52,10 @@ permalink: /album
     <div class="carousel-item">
       <img src="/assets/img/lab/lab20240902-3.jpg" alt="Image 3 from September 02, 2024">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img src="/assets/img/lab/lab20240902-4.jpg" alt="Image 4 from September 02, 2024">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img src="/assets/img/lab/lab20240902-5.jpg" alt="Image 5 from September 02, 2024">
     </div>
   </div>
