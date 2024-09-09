@@ -1,7 +1,7 @@
 ---
 title: Yan Zou
 layout: people
-permalink: /people/2_8_yan_zou
+permalink: /people/2_9_yan_zou
 status: Student
 pname: Yan Zou
 position: PhD Student
