@@ -9,6 +9,7 @@ permalink: /news
 ### 2024
 
 #### September
+- Yunfang had an unforgettable Teacher’s Day at Tongji. Congratulations!
 - On September 2, members of Professor ZhangYF lab attended the RNA Biology conference at Cold Spring Harbor, Suzhou. PhD student Li Yun presented a poster, showcasing his research, contributing to the scientific exchange and discussions during the conference.
 - Yan Zou joined ZhangYF lab as a PhD student. Welcome!
 
