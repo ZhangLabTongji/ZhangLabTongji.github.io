@@ -31,6 +31,28 @@ permalink: /album
 
 ---
 
+### 2025
+
+#### February 15, 2025
+<div class="container" style="width: 52.84%; margin: auto;">
+  <div class="row">
+    <div class="col-lg-12">
+      <img src="/assets/img/lab/lab20250215-1.jpg" class="img-fluid" alt="Image from February 15, 2025">
+    </div>
+  </div>
+</div>
+<hr>
+
+#### January 17, 2025
+<div class="container" style="width: 52.84%; margin: auto;">
+  <div class="row">
+    <div class="col-lg-12">
+      <img src="/assets/img/lab/lab20250117-1.jpg" class="img-fluid" alt="Image from January 17, 2025">
+    </div>
+  </div>
+</div>
+<hr>
+
 ### 2024
 
 #### September 02, 2024

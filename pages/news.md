@@ -6,7 +6,19 @@ permalink: /news
 
 # News
 
+### 2025
+
+#### February
+- On February 15, the ZhangYF Lab celebrated the birthdays of Zheng Cao and Yan Zou. The team gathered to enjoy cake, share warm wishes, and create a joyful atmosphere. Laughter and conversations made the celebration a special moment for everyone. Birthday gatherings are a cherished tradition in ZhangYF Lab, strengthening team bonds and fostering a positive environment. Happy birthday, Zheng Cao and Yan Zou! 🎉🎂
+
+#### January
+- On January 17, the ZhangYF Lab held its annual summary meeting, where members reviewed research progress, shared achievements, and discussed future plans. The session provided valuable insights and motivation for the coming year. At noon, the team enjoyed a festive lunch, fostering a warm and friendly atmosphere. In the afternoon, they headed to a KTV session for a fun-filled team-building activity, singing and sharing laughter.
+
 ### 2024
+
+#### October
+- Haoquan Yu joined ZhangYF Lab as a PhD student. Welcome!
+- Dongqi Jiang joined ZhangYF Lab as a master student. Welcome!
 
 #### September
 - Yunfang had an unforgettable Teacher’s Day at Tongji. Congratulations!
