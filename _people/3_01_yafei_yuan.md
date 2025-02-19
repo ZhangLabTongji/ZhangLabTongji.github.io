@@ -1,7 +1,7 @@
 ---
 title: Yafei Yuan
 layout: people
-permalink: /people/3_1_yafei_yuan
+permalink: /people/3_01_yafei_yuan
 status: Student
 pname: Yafei Yuan
 position: Undergraduate Students

@@ -1,7 +1,7 @@
 ---
 title: Yun Li
 layout: people
-permalink: /people/2_4_yun_li
+permalink: /people/2_04_yun_li
 status: Student
 pname: Yun Li
 position: PhD student

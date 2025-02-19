@@ -1,7 +1,7 @@
 ---
 title: Yiting Yang
 layout: people
-permalink: /people/2_1_yiting_yang
+permalink: /people/2_01_yiting_yang
 status: Student
 pname: Yiting Yang
 position: PhD student

@@ -1,7 +1,7 @@
 ---
 title: Wenlin Jiang
 layout: people
-permalink: /people/2_8_wenlin_jiang
+permalink: /people/2_08_wenlin_jiang
 status: Student
 pname: Wenlin Jiang
 position: Master's Student

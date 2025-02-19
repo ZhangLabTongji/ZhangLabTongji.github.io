@@ -1,7 +1,7 @@
 ---
 title: Yibo Li
 layout: people
-permalink: /people/2_6_yibo_li
+permalink: /people/2_06_yibo_li
 status: Student
 pname: Yibo Li
 position: PhD student

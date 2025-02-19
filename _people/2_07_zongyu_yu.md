@@ -1,7 +1,7 @@
 ---
 title: Zongyu Yu
 layout: people
-permalink: /people/2_7_zongyu_yu
+permalink: /people/2_07_zongyu_yu
 status: Student
 pname: Zongyu Yu
 position: Master's student
