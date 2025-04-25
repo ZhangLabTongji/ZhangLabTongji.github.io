@@ -33,6 +33,47 @@ permalink: /album
 
 ### 2025
 
+#### March 26, 2025
+<div id="march26Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#march26Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#march26Carousel" data-slide-to="1"></li>
+    <li data-target="#march26Carousel" data-slide-to="2"></li>
+    <li data-target="#march26Carousel" data-slide-to="3"></li>
+    <li data-target="#march26Carousel" data-slide-to="4"></li>
+    <li data-target="#march26Carousel" data-slide-to="5"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20250326-1.jpg" alt="Image 1 from March 26, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250326-2.jpg" alt="Image 2 from March 26, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250326-3.jpg" alt="Image 3 from March 26, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250326-4.jpg" alt="Image 4 from March 26, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250326-5.jpg" alt="Image 5 from March 26, 2024">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250326-6.jpg" alt="Image 5 from March 26, 2024">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#march26Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#march26Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
 #### February 15, 2025
 <div class="container" style="width: 52.84%; margin: auto;">
   <div class="row">
