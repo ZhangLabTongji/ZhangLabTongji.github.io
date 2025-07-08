@@ -33,6 +33,64 @@ permalink: /album
 
 ### 2025
 
+#### July 08, 2025
+<div id="july08Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#july08Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#july08Carousel" data-slide-to="1"></li>
+    <li data-target="#july08Carousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20250708-1.jpg" alt="Image 1 from July 08, 2025">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250708-2.jpg" alt="Image 2 from July 08, 2025">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250708-3.jpg" alt="Image 3 from July 08, 2025">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#july08Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#july08Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
+#### June 16, 2025
+<div id="june16Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#june16Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#june16Carousel" data-slide-to="1"></li>
+    <li data-target="#june16Carousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20250616-1.jpg" alt="Image 1 from June 16, 2025">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250616-2.jpg" alt="Image 2 from June 16, 2025">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20250616-3.jpg" alt="Image 3 from June 16, 2025">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#june16Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#june16Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
 #### May 30, 2025
 <div id="may30Carousel" class="carousel slide carousel-container" data-ride="carousel">
   <ol class="carousel-indicators">
