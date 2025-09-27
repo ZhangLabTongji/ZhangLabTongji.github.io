@@ -5,7 +5,7 @@ permalink: /people/2_08_wenlin_jiang
 status: Student
 pname: Wenlin Jiang
 position: Master's Student
-eml: jiangwenlin@tongji.edu.cn
+eml: jiangwenlin[at]tongji.edu.cn
 website: 
 cv: 
 github: 

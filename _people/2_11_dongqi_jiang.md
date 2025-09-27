@@ -5,7 +5,7 @@ permalink: /people/2_11_dongqi_jiang
 status: Student
 pname: Dongqi Jiang
 position: Master's Student
-eml: 2433348@tongji.edu.com
+eml: 2433348[at]tongji.edu.com
 website: 
 cv: 
 github: 

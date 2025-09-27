@@ -5,7 +5,7 @@ permalink: /people/2_07_zongyu_yu
 status: Student
 pname: Zongyu Yu
 position: Master's student
-eml: yuzy@tongji.edu.cn
+eml: yuzy[at]tongji.edu.cn
 website: 
 cv: 
 github: 

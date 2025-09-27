@@ -5,7 +5,7 @@ permalink: /people/2_04_yun_li
 status: Student
 pname: Yun Li
 position: PhD student
-eml: li_yun@tongji.edu.cn
+eml: li_yun[at]tongji.edu.cn
 website: 
 cv: 
 github:

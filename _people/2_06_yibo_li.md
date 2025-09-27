@@ -5,7 +5,7 @@ permalink: /people/2_06_yibo_li
 status: Student
 pname: Yibo Li
 position: PhD student
-eml: 2311483@tongji.edu.com
+eml: 2311483[at]tongji.edu.com
 website: 
 cv: 
 github: 
