@@ -44,15 +44,7 @@ permalink: /album
       <img src="/assets/img/lab/lab20250910-1.jpg" alt="Image from September 10, 2025">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#sep10Carousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#sep10Carousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+  </div>
 <hr>
 
 
@@ -92,15 +84,7 @@ permalink: /album
       <img src="/assets/img/lab/lab20250722-1.jpg" alt="Image from July 22, 2025">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#july22Carousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#july22Carousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+  </div>
 <hr>
 
 
