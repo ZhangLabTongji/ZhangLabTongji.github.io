@@ -6,7 +6,7 @@ status: Group Leader
 pname: Yunfang Zhang
 position: Professor
 office: 1239 Siping Road, Shanghai 200092
-eml: zhangyunfang@tongji.edu.cn
+eml: zhangyunfang[at]tongji.edu.cn
 website: https://zhanglabtongji.github.io
 cv: 
 github: 

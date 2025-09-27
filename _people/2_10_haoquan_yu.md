@@ -5,7 +5,7 @@ permalink: /people/2_10_haoquan_yu
 status: Student
 pname: Haoquan Yu
 position: PhD Student
-eml: 2411529@tongji.edu.cn
+eml: 2411529[at]tongji.edu.cn
 website: 
 cv: 
 github: 

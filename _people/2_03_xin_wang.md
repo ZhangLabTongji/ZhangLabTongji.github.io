@@ -5,7 +5,7 @@ permalink: /people/2_03_xin_wang
 status: Student
 pname: Xin Wang
 position: PhD student
-eml: 2210778@tongji.edu.cn
+eml: 2210778[at]tongji.edu.cn
 website: 
 cv: 
 github: 

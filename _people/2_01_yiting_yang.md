@@ -5,7 +5,7 @@ permalink: /people/2_01_yiting_yang
 status: Student
 pname: Yiting Yang
 position: PhD student
-eml: yangyiting@tongji.edu.com
+eml: yangyiting[at]tongji.edu.com
 website: 
 cv: 
 github: 

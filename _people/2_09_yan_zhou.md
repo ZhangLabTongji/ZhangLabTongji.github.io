@@ -5,7 +5,7 @@ permalink: /people/2_09_yan_zou
 status: Student
 pname: Yan Zou
 position: PhD Student
-eml: 2411589@tongji.edu.cn
+eml: 2411589[at]tongji.edu.cn
 website: 
 cv: 
 github: 

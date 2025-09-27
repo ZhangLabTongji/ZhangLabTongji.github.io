@@ -5,7 +5,7 @@ permalink: /people/3_01_yafei_yuan
 status: Student
 pname: Yafei Yuan
 position: Undergraduate Students
-eml: 2250065@tongji.edu.cn
+eml: 2250065[at]tongji.edu.cn
 website: 
 cv: 
 github: 
