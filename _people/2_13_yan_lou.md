@@ -1,7 +1,7 @@
 ---
 title: Yan Lou
 layout: people
-permalink: /people/2_13_yan _lou
+permalink: /people/2_13_yan_lou
 status: Student
 pname: Yan Lou
 position: Master's Student
