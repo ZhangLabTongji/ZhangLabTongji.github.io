@@ -1,7 +1,7 @@
 ---
 title: Hanlin Li
 layout: people
-permalink: /people/2_14_Hanlin Li
+permalink: /people/2_14_hanlin_li
 status: Student
 pname: Hanlin Li
 position: Master's student
