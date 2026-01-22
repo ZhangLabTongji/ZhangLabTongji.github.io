@@ -87,33 +87,58 @@ permalink: /album
 </div>
 <hr>
 
-#### January 19, 2026
-<div id="jan19Carousel" class="carousel slide carousel-container" data-ride="carousel">
+
+### 2025
+
+#### December 12, 2025
+<div id="dec12Carousel" class="carousel slide carousel-container" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li data-target="#jan19Carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#jan19Carousel" data-slide-to="1"></li>
+    <li data-target="#dec12Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#dec12Carousel" data-slide-to="1"></li>
+    <li data-target="#dec12Carousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/lab/lab20260119-1.jpg" alt="Image 1 from January 19, 2026">
+      <img src="/assets/img/lab/lab20251212-1.jpg" alt="Image 1 from December 12, 2025">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/lab/lab20260119-2.jpg" alt="Image 2 from January 19, 2026">
+      <img src="/assets/img/lab/lab20251212-2.jpg" alt="Image 2 from December 12, 2025">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20251212-3.jpg" alt="Image 3 from December 12, 2025">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#jan19Carousel" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#dec12Carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#jan19Carousel" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#dec12Carousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
 <hr>
 
-### 2025
-
+#### November 17, 2025
+<div id="nov17Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#nov17Carousel" data-slide-to="0" class="active"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20251117-1.jpg" alt="Image 1 from November 17, 2025">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#nov17Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#nov17Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
 
 #### October 12, 2025
 <div id="oct12Carousel" class="carousel slide carousel-container" data-ride="carousel">
