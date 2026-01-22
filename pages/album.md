@@ -33,6 +33,35 @@ permalink: /album
 
 ### 2026
 
+#### January 22, 2026
+<div id="jan22Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#jan22Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#jan22Carousel" data-slide-to="1"></li>
+    <li data-target="#jan22Carousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20260122-1.jpg" alt="Image 1 from January 22, 2026">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20260122-2.jpg" alt="Image 2 from January 22, 2026">
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/img/lab/lab20260122-3.jpg" alt="Image 3 from January 22, 2026">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#jan22Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#jan22Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
 #### January 19, 2026
 <div id="jan19Carousel" class="carousel slide carousel-container" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -52,31 +81,6 @@ permalink: /album
     <span class="sr-only">Previous</span>
   </a>
   <a class="carousel-control-next" href="#jan19Carousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-<hr>
-
-#### January 22, 2026
-<div id="jan22Carousel" class="carousel slide carousel-container" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#jan22Carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#jan22Carousel" data-slide-to="1"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="/assets/img/lab/lab20260122-1.jpg" alt="Image 1 from January 22, 2026">
-    </div>
-    <div class="carousel-item">
-      <img src="/assets/img/lab/lab20260122-2.jpg" alt="Image 2 from January 22, 2026">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#jan22Carousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#jan22Carousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
