@@ -33,6 +33,48 @@ permalink: /album
 
 ### 2026
 
+#### February 9, 2026
+<div id="feb09Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#feb09Carousel" data-slide-to="0" class="active"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20260209-1.jpg" alt="Image 1 from February 9, 2026">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#feb09Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#feb09Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
+#### February 7, 2026
+<div id="feb07Carousel" class="carousel slide carousel-container" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#feb07Carousel" data-slide-to="0" class="active"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/img/lab/lab20260207-10.jpg" alt="Image 10 from February 7, 2026">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#feb07Carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#feb07Carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<hr>
+
 #### January 22, 2026
 <div id="jan22Carousel" class="carousel slide carousel-container" data-ride="carousel">
   <ol class="carousel-indicators">
