@@ -9,6 +9,7 @@ The lab website is built based on [Beautiful Jekyll](https://github.com/daattali
 - [People](#People)
 - [Publications](#Publications)
 - [Contact](#Contact)
+- [Album](#Album)
 
 ## Home
 The home page is located at `index.html`. To change the images at the home page, please add or delete the images in the `assets/img/` folder, and then modify the corresponding path in `index.html`.
@@ -25,3 +26,8 @@ The publications page is located at `pages/publications.md`. To add new publicat
 ## Contact
 The contact page is located at `pages/contact.md`. To adjust positions, please modify the file.
 
+## Album
+The album page is located at `pages/album.md`. The page now reads images from `assets/img/lab/` automatically during the Jekyll build, so adding a photo to this folder is enough for it to appear on `/album`.
+
+Use the filename format `labYYYYMMDD-N.jpg`, for example `lab20260403-1.jpg` and `lab20260403-2.jpg`.
+Files with the same `YYYYMMDD` will be grouped into one carousel and shown under that date.
