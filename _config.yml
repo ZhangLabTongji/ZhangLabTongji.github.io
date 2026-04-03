@@ -1,16 +1,13 @@
-# --- Basic options --- #
-
-# Name of website
+# --- Site identity ------------------------------------------------------------
+# Website title shown in browser tab and site header
 title: ZhangYF Lab
-
-# Short description of your site
+# Short site description used in metadata and some theme locations
 description: Yunfang Zhang Lab at Tongji University
-
-# Your name to show in the footer
+# Footer author / site owner text
 author: Yunfang Zhang Lab
 
-# --- List of links in the navigation bar --- #
-
+# --- Navigation bar -----------------------------------------------------------
+# Top navigation menu: left side label -> target path
 navbar-links:
   Home: "/"
   News: "news"
@@ -20,50 +17,16 @@ navbar-links:
   Contact: "contact"
   Album: "album"
 
-# --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/logo.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+# --- Logo / title display -----------------------------------------------------
+# Whether avatar-style images should be displayed as a circle
+# Here false means keep original rectangular/square shape
 round-avatar: false
-
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
+# Image used in the top-left title area instead of plain text title
+# Path is relative to the site root
 title-img: /assets/img/logo.png
 
-
-# --- Footer options --- #
-
-# Select the social network links that you want to show in the footer.
-# Uncomment the links you want to show and add your information to each one.
-# If you don't want to show a link to an RSS feed, set rss to "false".
-# social-network-links:
-#  email: zhangyunfang@tongji.edu.cn
-#  github: ZhangLabTongji
-#  rss: false
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-
-# --- General options --- #
-
-# Select which social network share links to show in posts
+# --- Share buttons on posts ---------------------------------------------------
+# Control which social/share buttons appear on posts
 share-links-active:
   email: true
   github: true
@@ -72,144 +35,92 @@ share-links-active:
   linkedin: false
   vk: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-# url-pretty: "wanglab-tongji.github.io"
-
-# Create a "tags" index page and make tags on each post clickable
+# --- General page behavior ----------------------------------------------------
+# Whether post tags should link to a tag index page
 link-tags: true
-
-# Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
+# Maximum number of words shown in post excerpt previews
 excerpt_length: 50
 
-# The keywords to associate with your website, for SEO purposes
-# keywords: "my,list,of,keywords"
-
-# --- Colours / background image --- #
-
-# Personalize the colours in your website. Colour values can be any valid CSS colour
+# --- Custom styles and theme colors -------------------------------------------
+# Extra CSS files loaded globally on every page
 site-css:
   - "/assets/css/custom-styles.css"
+# Navbar background color
 navbar-col: "#ff7e5f"
+# Navbar text color
 navbar-text-col: "#3A3838"
+# Navbar border color
 navbar-border-col: "#D5C6C6"
+# Main page background color
 page-col: "#FFFFFF"
+# Default body text color
 text-col: "#404040"
+# Default link color
 link-col: "#008AFF"
+# Hover color for links / interactive elements
 hover-col: "#ad9492"
+# Footer background color
 footer-col: "#E1B5B7"
+# Footer text color
 footer-text-col: "#3A3838"
+# Footer link color
 footer-link-col: "#404040"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of colour
-
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
-
-# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
-
-# For any extra customization, you can include additional CSS files in every page on your site
-#site-css:
-#  - "/assets/css/custom-styles.css"
-
-# --- Web Statistics Section --- #
-
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# --- Comments --- #
-
-# To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
-
-# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
-
-# To use Utterances comments: (0) uncomment the following section, (1) fill in
-# "repository" (make sure the repository is public), (2) Enable Issues in your repository,
-# (3) Install the Utterances app in your repository https://github.com/apps/utterances
-# See more details about the parameters below at https://utteranc.es/
-#utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
-#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
-
-# To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
-# accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`.
-# Then uncomment the following section and fill in "repository" and "branch".
-# If you want to use reCaptcha for staticman (optional for spam protection), then fill
-# in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
-# See more details at https://staticman.net/
-#staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
-#  reCaptcha:
-#    siteKey  : # Use your own site key, you need to apply for one on Google
-#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
-
-# --- Misc --- #
-
-# Character used to separate site title and description in HTML document title
-# and RSS feed title
+# --- Title and date format ----------------------------------------------------
+# Separator between title pieces in browser title / feeds
 title-separator: "-"
-
-# Ruby Date Format to show dates of posts
+# Date display format used by the theme
+# Example output: April 3, 2026
 date_format: "%B %-d, %Y"
 
-# Facebook App ID
-#fb_app_id: ""
-
-
-# --- You don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
+# --- Jekyll core settings -----------------------------------------------------
+# Site timezone used for post times and date-related rendering
 timezone: "Asia/Shanghai"
+# Markdown engine
 markdown: kramdown
+# Syntax highlighter for code blocks
 highlighter: rouge
+# URL style for generated posts
 permalink: /:year-:month-:day-:title/
+# Number of posts per page when pagination is used
 paginate: 5
 
+# --- Markdown engine options --------------------------------------------------
 kramdown:
+  # Enable GitHub Flavored Markdown input behavior
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
+# --- Default front matter for posts and pages ---------------------------------
+# Rules applied automatically to files matching each scope
+# This avoids repeating the same front matter in many files
 defaults:
   -
     scope:
+      # Empty path means apply to all matching files in the project
       path: ""
+      # Apply this block only to posts
       type: "posts"
     values:
+      # Default layout for posts
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
+      # Enable comments on posts
+      comments: true
+      # Show share buttons on posts
+      social-share: true
+      # Disable estimated reading time display
+      readtime: false
   -
     scope:
-      path: "" # all files
+      # Apply to all regular pages
+      path: ""
     values:
+      # Default layout for normal pages
       layout: "page"
+      # Show avatar / title image area on pages
       show-avatar: true
 
-# Exclude these files from production site
+# --- Files excluded from build ------------------------------------------------
+# These files or folders will not be processed into the final site
 exclude:
   - CHANGELOG.md
   - CNAME
@@ -220,17 +131,19 @@ exclude:
   - screenshot.png
   - docs/
 
+# --- Enabled Jekyll plugins ---------------------------------------------------
 plugins:
+  # Split posts into multiple pages
   - jekyll-paginate
+  # Automatically generate sitemap.xml
   - jekyll-sitemap
 
+# --- Custom collections -------------------------------------------------------
+# Additional content groups outside standard posts/pages
 collections:
   people:
+    # Generate standalone output pages for each item in _people
     output: true
-#    permalink: /people/:title
   pages:
+    # Generate output pages for items in this custom pages collection
     output: true
-    
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
