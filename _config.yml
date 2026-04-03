@@ -130,6 +130,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - .bundle/
+  - vendor/
 
 # --- Enabled Jekyll plugins ---------------------------------------------------
 plugins:
