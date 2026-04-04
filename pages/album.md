@@ -28,16 +28,23 @@ permalink: /album
 
 ---
 
-{% if site.data.album %}
-{% for yearGroup in site.data.album %}
-### {{ yearGroup.year }}
+{% assign labImages = site.static_files | where_exp: "file", "file.path contains '/assets/img/lab/'" | where_exp: "file", "file.name contains 'lab20'" | sort: "name" %}
+{% assign albumGroups = labImages | group_by_exp: "file", "file.basename | slice: 3, 8" | sort: "name" | reverse %}
+{% assign currentYear = "" %}
 
-{% for item in yearGroup.items %}
-#### {{ item.date }}
-{% include album_entry.html item=item %}
+{% for group in albumGroups %}
+{% assign dateKey = group.name %}
+{% assign year = dateKey | slice: 0, 4 %}
+{% capture dateIso %}{{ year }}-{{ dateKey | slice: 4, 2 }}-{{ dateKey | slice: 6, 2 }}{% endcapture %}
+{% assign dateLabel = dateIso | date: site.date_format %}
+{% if year != currentYear %}
+### {{ year }}
+{% assign currentYear = year %}
+{% endif %}
+#### {{ dateLabel }}
+{% include album_entry.html carouselId=dateKey dateLabel=dateLabel images=group.items %}
 <hr>
 {% endfor %}
-{% endfor %}
-{% else %}
+{% if albumGroups.size == 0 %}
 No photos yet.
 {% endif %}

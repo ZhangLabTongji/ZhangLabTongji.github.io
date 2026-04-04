@@ -27,8 +27,7 @@ The publications page is located at `pages/publications.md`. To add new publicat
 The contact page is located at `pages/contact.md`. To adjust positions, please modify the file.
 
 ## Album
-The album page is located at `pages/album.md`. The album data is generated automatically from `assets/img/lab/` during the GitHub Pages workflow, so adding a photo to this folder is enough for it to appear on `/album` after deployment.
+The album page is located at `pages/album.md`. The page reads image files from `assets/img/lab/` directly during the Jekyll build, so adding a photo to this folder is enough for it to appear on `/album` after deployment.
 
 Use the filename format `labYYYYMMDD-N.jpg`, for example `lab20260403-1.jpg` and `lab20260403-2.jpg`.
 Files with the same `YYYYMMDD` will be grouped into one carousel and shown under that date.
-If you want to preview the album locally before pushing, run `python3 build_album.py` once before `bundle exec jekyll serve`.
