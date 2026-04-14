@@ -18,9 +18,25 @@ permalink: /album
   position: absolute;
   inset: 0;
 }
-.album-carousel .carousel-item img, .album-single img {
+.album-carousel .carousel-item {
+  height: 100%;
+  background: #fff;
+}
+.album-carousel .carousel-item img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+  object-position: center;
+}
+.album-single img {
   width: 100%;
   display: block;
+}
+@media (max-width: 991.98px) {
+  .album-carousel, .album-single {
+    width: 100%;
+  }
 }
 </style>
 
