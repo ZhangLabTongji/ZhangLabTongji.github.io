@@ -14,7 +14,12 @@ permalink: /news
 #### August
 - On August 20, Zheng Cao defended his doctoral dissertation. Lab members joined him to mark this important milestone and took photos together after the defense. Congratulations, Zheng!
 
+#### June
+- On June 24, the collaborative study ["Dynamic tRNA modification landscapes reveal METTL1 in fibroblasts as a central regulator of aging"](https://doi.org/10.1007/s11427-025-3287-6) was published online in *Science China Life Sciences*. Xin Wang, Yun Li, and Wenlin Jiang are co-first authors. The study maps age-associated changes in tRNA modifications and identifies fibroblast METTL1 as a regulator of aging. Congratulations to the authors!
+- On June 12, ["Deciphering RNA modification dynamics during spermatogenesis and sperm maturation"](https://doi.org/10.1007/s11427-025-3134-1) was published online in *Science China Life Sciences*, with Zheng Cao, Zongyu Yu, and Xin Wang as co-first authors. The study profiles RNA modification dynamics across mouse spermatogenesis and epididymal sperm maturation and examines how these patterns change in a type 2 diabetes model. Congratulations to Zheng, Zongyu, Xin, and the collaborating authors!
+
 #### April
+- On April 30, ["Deciphering tRNA repertoires and translation coordination during mouse early embryogenesis by ORACLE-tRNAseq"](https://doi.org/10.1038/s41467-026-72603-5) was published in *Nature Communications*. Yun Li, Xin Wang, and Ruofan Huang are co-first authors. The study introduces ORACLE-tRNAseq for low-input tRNA profiling and maps changes in tRNA repertoires and their coordination with translation during mouse early embryogenesis. Congratulations to the authors!
 - On April 28, Yiting Yang and Xin Wang defended their doctoral dissertations. The lab celebrated their years of research and dedication with flowers and group photos. Congratulations to Yiting and Xin on reaching this milestone!
 - On April 10, members of the ZhangYF Lab traveled to Hefei for a biology conference, where Yunfang Zhang, Zheng Cao, and Ze Shu gave talks. The visit offered an opportunity to share the team's research with the wider scientific community.
 - On April 3, the ZhangYF Lab welcomed Dr. Weirui Ma for an invited seminar. Lab members attended the talk and gathered with the speaker for a group photo.
@@ -47,6 +52,7 @@ permalink: /news
 - On September 10, the ZhangYF Lab celebrated Teachers' Day with Yunfang. Students gathered for a group photo and expressed their appreciation for her mentorship. Happy Teachers' Day, Yunfang!
 
 #### August
+- On August 18, ["PANDORA-seq reveals human sperm sncRNA signature endowed with sperm quality assessment"](https://doi.org/10.1016/j.gendis.2025.101807) was published online in *Genes & Diseases*, with Ruofan Huang and Yiting Yang as co-first authors. The study uses PANDORA-seq to characterize human sperm small noncoding RNAs and their associations with sperm quality, identifying candidate RNA signatures for further evaluation. Congratulations to Yiting and the collaborating authors!
 - On August 16, the ZhangYF Lab celebrated Yun Li's birthday. The team gathered around a birthday cake and took photos together to mark the occasion. Happy birthday, Yun!
 
 #### July
@@ -73,6 +79,7 @@ permalink: /news
 ### 2024
 
 #### October
+- On October 21, ["tRNA and tsRNA: From Heterogeneity to Multifaceted Regulators"](https://doi.org/10.3390/biom14101340) was published in *Biomolecules*, with Yun Li and Zongyu Yu as co-first authors. This review brings together advances in tRNA heterogeneity, the regulation of tsRNA biogenesis, and the roles of tRNAs and tsRNAs in development and epigenetic regulation. Congratulations to Yun, Zongyu, and all the authors!
 - Haoquan Yu joined ZhangYF Lab as a PhD student. Welcome!
 - Dongqi Jiang joined ZhangYF Lab as a master student. Welcome!
 
