@@ -10,7 +10,37 @@ permalink: /publications
 Please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=Opgodt4AAAAJ) for more details.<br>
 \* Co-first authors; \# Co-corresponding authors
 
+### 2026
+
+- Yan Zhu, Xin Wang, Yun Li, Wenlin Jiang, Zheng Wu, San Xu, Zixin Tan, Aike Wu, Yisheng Cai, Yandi Yang, Xin Xiao, Xinwei Kuang, Guangtong Deng, Yiya Zhang, Mengting Chen, Ji Li#, **Yunfang Zhang#**, Zhili Deng#. Dynamic tRNA modification landscapes reveal METTL1 in fibroblasts as a central regulator of aging. ***Science China Life Sciences.*** (2026).
+[[PDF]](/resources/publications/2026_Science_China_Life_Sciences_METTL1.pdf)
+
+- Cao Zheng\*, Zongyu Yu\*, Xin Wang\*, Dongqi Jiang, Yafei Yuan, Ze Shu, Yiting Yang#, **Yunfang Zhang#**. Deciphering RNA modification dynamics during spermatogenesis and sperm maturation. ***Science China Life Sciences.*** (2026).
+[[PDF]](/resources/publications/2026_Science_China_Life_Sciences_spermatogenesis.pdf)
+
+- Yun Li\*, Xin Wang\*, Ruofan Huang\*, Haoquan Yu, You Wu, Ze Shu, Wenlin Jiang, Zheng Cao, Zongyu Yu, Hongyan Li, Rushuang Yan, Yawei Gao#, Xiao-Ou Zhang#, **Yunfang Zhang#**. Deciphering tRNA Repertoires and Translation Coordination during Mouse Early Embryogenesis by ORACLE-tRNAseq. ***Nature Communications.*** (2026) 17(1):5893.
+[[PDF]](/resources/publications/2026_Nature_Communications.pdf)
+
+- Shijia Pan, Liwen Zhang, **Yunfang Zhang#**, Junchao Shi#, Ying Zhang#. RNA modifications: disease biomarkers and signaling molecules. ***Trends in Endocrinology & Metabolism.*** (2026) Apr; 37(4):297–300. doi: [10.1016/j.tem.2026.01.004](https://doi.org/10.1016/j.tem.2026.01.004).
+[[PDF]](/resources/publications/2026_Trends_in_Endocrinology_Metabolism.pdf)
+
+### 2025
+
+- Xiaoli Zhu\*, Caoling Xu\*, Xue Jiang, Jiaqi Zou, Wenqing Li, Xuemei Xing, Xiaoxiao Gao, Jiao Lei, Fei Meng, Xin Wang, Yuzhang Zhu, Yu Cheng, Muhammad Azhar, Wenjie Han, Ge Lin, **Yunfang Zhang#**, Ge Shan#, Shen Zhang#, Jianqiang Bao#. NAT10 primes a posttranscriptional repertoire essential for the maintenance of spermatogonial homeostasis. ***Science Bulletin.*** (2025) 70(6):842–846.
+[[PDF]](/resources/publications/2025_Science_Bulletin.pdf)
+
+- Junchao Shi#, **Yunfang Zhang#**, Yun Li, Liwen Zhang, Xudong Zhang, Menghong Yan, Qi Chen, Ying Zhang#. Optimized identification and characterization of small RNAs with PANDORA-seq. ***Nature Protocols.*** (2025) 20(11):3314–3338.
+[[PDF]](/resources/publications/2025_Nature_Protocols.pdf)
+
+- Zhibin Li\*, Shuying Li\*, Yufeng Xiao\*, Junfeng Guo\*, Jianchun Zhou, Yang Chen, Juan Yang, Chunli Gong, Bing He, Yuyun Wu, Nannan Gao, Huan Yang, Limin Gao, Hua Hu#, **Yunfang Zhang#**, Shiming Yang#. Hypoxia exposure impairs male fertility via inhibiting Septin2-mediated spermatogonial proliferation. ***Human Reproduction Open.*** (2025) 2025(3):hoaf027.
+
+- Ruofan Huang\*, Yiting Yang\*, Wenlin Jiang, Zheng Cao, Junchao Shi#, Xiao-Ou Zhang#, **Yunfang Zhang#**. PANDORA-seq reveals human sperm sncRNA signature endowed with sperm quality assessment. ***Genes & Diseases.*** (2025) 101807.
+[[PDF]](/resources/publications/2025_Genes_Diseases.pdf)
+
 ### 2024
+
+- Yun Li\*, Zongyu Yu\*, Wenlin Jiang, Xinyi Lyu, Ailian Guo, Xiaorui Sun, Yiting Yang#, **Yunfang Zhang#**. tRNA and tsRNA: From Heterogeneity to Multifaceted Regulators. ***Biomolecules.*** (2024) 14(10):1340.
+[[PDF]](/resources/publications/2024_Biomolecules.pdf)
 
 - Yiting Yang\*, Yun Li\*, Ailian Guo, Xinyi Lv, Xin Wang, Zheng Cao, Ze Shu, **Yunfang Zhang#**​. Advances in the Biogenesis and Functional Research of tRNA-Derived Small Non-Coding RNA. ***Chinese Journal of Cell Biology.*** (2024), 46(2): 201–213. [[HTML]](https://kns.cnki.net/KXReader/Detail?invoice=XeOmlmfPEJaEUURph6q0hTP6Q9vz2DMqo%2Fz0duP%2FyAVeDz43ihO5hTMxltcef27DkK89kmZnjBl%2BzlLseZ7cwhUQWssUONU9B3ux2iQNVZM8dPwmxAIN4gkeAuu5HAd4JTPrThRkxWStz6im7ovN0%2FEA1jMR5vPzMQ0Vz1hZFg8%3D&DBCODE=CJFQ&FileName=XBZZ202402019&TABLEName=cjfdlast2024&nonce=BA89AC1843464E0DBCCBBDCE358C444E&TIMESTAMP=1712574800770&uid=)
 [[PDF]](/resources/publications/2024_Chinese_Journal_of_Cell_Biology.pdf)

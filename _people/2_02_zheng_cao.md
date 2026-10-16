@@ -2,9 +2,9 @@
 title: Zheng Cao
 layout: people
 permalink: /people/2_02_zheng_cao
-status: Student
+status: Staff
 pname: Zheng Cao
-position: PhD student
+position: Staff
 eml: 2211015[at]tongji.edu.cn
 website: 
 cv: 

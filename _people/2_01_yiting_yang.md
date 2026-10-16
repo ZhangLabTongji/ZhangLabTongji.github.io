@@ -2,9 +2,10 @@
 title: Yiting Yang
 layout: people
 permalink: /people/2_01_yiting_yang
-status: Student
+status: Alumni
+alumniDetail: PhD (2022-2026)
 pname: Yiting Yang
-position: PhD student
+position: PhD
 eml: yangyiting[at]tongji.edu.com
 website: 
 cv: 

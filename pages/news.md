@@ -6,7 +6,63 @@ permalink: /news
 
 # News
 
+### 2026
+
+#### September
+- On September 10, the ZhangYF Lab celebrated Teachers' Day with Yunfang. The team gathered for a group photo and presented a framed keepsake to thank her for her guidance and support.
+
+#### August
+- On August 20, Zheng Cao defended his doctoral dissertation. Lab members joined him to mark this important milestone and took photos together after the defense. Congratulations, Zheng!
+
+#### April
+- On April 28, Yiting Yang and Xin Wang defended their doctoral dissertations. The lab celebrated their years of research and dedication with flowers and group photos. Congratulations to Yiting and Xin on reaching this milestone!
+- On April 10, members of the ZhangYF Lab traveled to Hefei for a biology conference, where Yunfang Zhang, Zheng Cao, and Ze Shu gave talks. The visit offered an opportunity to share the team's research with the wider scientific community.
+- On April 3, the ZhangYF Lab welcomed Dr. Weirui Ma for an invited seminar. Lab members attended the talk and gathered with the speaker for a group photo.
+- On April 2, the ZhangYF Lab gathered along the campus cherry blossom avenue for new team photos. The spring outing brought members together to capture another year of lab life at Tongji University.
+
+#### March
+- On March 27, the ZhangYF Lab celebrated the birthdays of Zongyu Yu and Yan Lou. Members gathered in the lab to share a birthday cake and mark the occasion together. Happy birthday, Zongyu and Yan!
+
+#### February
+- On February 9, the ZhangYF Lab gathered ahead of the Lunar New Year. With festive decorations and a group photo, the team welcomed the approaching holiday and wished everyone a happy year ahead.
+- On February 7, the ZhangYF Lab held its annual team-building outing and visited Zhujiajiao. Members explored the historic water town and took a group photo together during the trip.
+
+#### January
+- On January 22, students from the ZhangYF Lab took part in a dumpling-making activity. The group gathered around the table to make dumplings together and enjoy the festive atmosphere ahead of the Lunar New Year.
+- On January 19, the ZhangYF Lab celebrated Yan Zou's birthday. Lab members marked the occasion with a birthday cake and photos together. Happy birthday, Yan!
+
 ### 2025
+
+#### December
+- On December 12, members of the ZhangYF Lab traveled to Chengdu for a biology conference. The team also took photos together in the city, recording memories from the trip beyond the conference venue.
+
+#### November
+- On November 17, the ZhangYF Lab celebrated the birthdays of Bangguo Wu, Yibo Li, Hanlin Li, and Yafei Yuan. Members came together for a shared birthday celebration with cake and photos. Happy birthday to all four!
+
+#### October
+- In October, Hanlin Li and Yan Lou joined the ZhangYF Lab as master's students, and Jia Zhao joined as a PhD student. Welcome to the lab, Hanlin, Yan, and Jia! We look forward to sharing the next stage of your research journey.
+- On October 12, the ZhangYF Lab officially opened its laboratory in the new building on the East Campus. Members gathered in the new space and took photos together to mark the beginning of this new chapter for the lab.
+
+#### September
+- On September 10, the ZhangYF Lab celebrated Teachers' Day with Yunfang. Students gathered for a group photo and expressed their appreciation for her mentorship. Happy Teachers' Day, Yunfang!
+
+#### August
+- On August 16, the ZhangYF Lab celebrated Yun Li's birthday. The team gathered around a birthday cake and took photos together to mark the occasion. Happy birthday, Yun!
+
+#### July
+- On July 22, the ZhangYF Lab held a team-building activity followed by a group dinner. Members came together outside the lab to enjoy a meal and spend time with one another.
+- On July 19, the ZhangYF Lab celebrated the birthdays of Xin Wang, Dongqi Jiang, and Haoquan Yu. Members gathered around a birthday cake for a joint celebration. Happy birthday, Xin, Dongqi, and Haoquan!
+- On July 8, Zheng Cao introduced the laboratory to visiting summer camp students. During the lab tour, he gave the visitors a closer look at the team's working environment and laboratory facilities.
+
+#### June
+- On June 16, the ZhangYF Lab celebrated Yunfang's birthday. The team marked the occasion with a birthday gathering, a shared meal, and group photos. Happy birthday, Yunfang!
+
+#### May
+- On May 30, the ZhangYF Lab celebrated the birthdays of Yiting Yang, Ze Shu, and Wenlin Jiang. Members gathered around the table to share a birthday cake and celebrate together. Happy birthday, Yiting, Ze, and Wenlin!
+
+#### March
+- On March 26, the ZhangYF Lab gathered beneath the campus cherry blossoms for team photos and celebrated the birthdays of Haoyu Wang and Zongyu Yu. Spring scenery and a birthday gathering made it a memorable day together. Happy birthday, Haoyu and Zongyu!
+
 
 #### February
 - On February 15, the ZhangYF Lab celebrated the birthdays of Zheng Cao and Yan Zou. The team gathered to enjoy cake, share warm wishes, and create a joyful atmosphere. Laughter and conversations made the celebration a special moment for everyone. Birthday gatherings are a cherished tradition in ZhangYF Lab, strengthening team bonds and fostering a positive environment. Happy birthday, Zheng Cao and Yan Zou! 🎉🎂

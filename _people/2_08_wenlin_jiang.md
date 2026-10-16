@@ -2,9 +2,10 @@
 title: Wenlin Jiang
 layout: people
 permalink: /people/2_08_wenlin_jiang
-status: Student
+status: Alumni
+alumniDetail: Master (2023-2026) Phd in Fudan University, Shanghai, China
 pname: Wenlin Jiang
-position: Master's Student
+position: Master
 eml: jiangwenlin[at]tongji.edu.cn
 website: 
 cv: 

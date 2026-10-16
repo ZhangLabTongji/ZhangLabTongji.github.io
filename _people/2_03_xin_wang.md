@@ -2,9 +2,9 @@
 title: Xin Wang
 layout: people
 permalink: /people/2_03_xin_wang
-status: Student
+status: Staff
 pname: Xin Wang
-position: PhD student
+position: Staff
 eml: 2210778[at]tongji.edu.cn
 website: 
 cv: 
